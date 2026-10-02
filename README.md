@@ -49,4 +49,4 @@ findings from this analysis.
 The Tableau dashboard can be viewed here:
 [Executive Performance and Loss Diagnostic Dashboard](https://public.tableau.com/shared/MD8BJZ72X?:display_count=n&:origin=viz_share_link)
 
-NOTE: This project was an assignment done for one of my courses at the university.
+Note: This project was originally completed as an assignment for one of my graduate courses. The repository is shared as part of my data analytics portfolio.
