@@ -46,5 +46,5 @@ findings from this analysis.
 
 [Watch the video](https://youtu.be/x1gg7JdjkgY)
 
-The Tableau dashboard can be viewed below:
+The Tableau dashboard can be viewed here:
 [Executive Performance and Loss Diagnostic Dashboard](https://public.tableau.com/shared/MD8BJZ72X?:display_count=n&:origin=viz_share_link)
